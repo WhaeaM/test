@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 e3a5881a0105de06600a0a3273aee3b6f38212dc 19010-HFHS <81333059+19010-HFHS@users.noreply.github.com> 1684445502 +0000	branch: Created from HEAD
+e3a5881a0105de06600a0a3273aee3b6f38212dc b06c44805fea9d9356c0761e1ea813e6533c4976 19010-HFHS <81333059+19010-HFHS@users.noreply.github.com> 1684445535 +0000	commit: Updated GUI
+b06c44805fea9d9356c0761e1ea813e6533c4976 aece6f2bfcb9763efb607d6bc0cf06dedcd70038 19010-HFHS <81333059+19010-HFHS@users.noreply.github.com> 1685333869 +0000	commit: Added separate functions, created and tested check_input
+aece6f2bfcb9763efb607d6bc0cf06dedcd70038 3160d10e286b75181b3649dd269b2727d822080c 19010-HFHS <81333059+19010-HFHS@users.noreply.github.com> 1685334382 +0000	commit: Created base function
+3160d10e286b75181b3649dd269b2727d822080c 6dc51b5c6a1ac7550414cc24d2dab43d41f70132 19010-HFHS <81333059+19010-HFHS@users.noreply.github.com> 1685657882 +0000	commit: added comments to buttons, updated error message and fixed multiple errors
